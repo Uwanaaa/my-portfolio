@@ -1,0 +1,38 @@
+.body {
+    background-color: rgb(192, 56, 56);
+}
+
+.intro {
+    margin-bottom: 40px;
+}
+
+.intro h1 {
+    text-align: left;
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.intro p {
+    font-size: 20px;
+}
+
+.projects-card {
+    display: flex;
+}
+
+.card {
+    flex: 4;
+    width: "18rem";
+}
+
+.socials ul {
+    list-style: none;
+}
+
+.socials li {
+    color: black;
+}
+
+.socials a {
+    text-decoration: none;
+}
